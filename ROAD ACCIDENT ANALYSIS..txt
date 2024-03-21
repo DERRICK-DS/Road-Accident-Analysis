@@ -1,0 +1,46 @@
+ROAD ACCIDENT ANALYSIS.
+
+SQL/POWER BI.
+
+ABOUT.
+
+This project focuses on analyzing road accidents using SQL and Power BI, leveraging key metrics such as accident date, severity, casualties, road surface conditions, road type, vehicle type, urban or rural area classification, and weather conditions. The goal is to gain insights into accident patterns, identify risk factors, and inform targeted safety interventions.
+
+
+PROBLEM STATEMENTS.
+
+A.KPI's
+1.PRIMARY KPI'S
+-Total Casualties
+   -CY Casualties
+   -PY Casualties
+   -YoY Change
+
+   -Fatal Casualties, CY,PY,YOY
+   -Slight Casualties, CY,PY,YOY
+   -Serious Casualties, CY,PY,YOY
+
+-Total Accidents.
+    -CY Accidents
+    -PY Accidents
+    -YoY Change
+
+2.SECONDARY KPI'S
+-Casualties by Vehicle type-CY
+
+
+POWER BI 
+-Monthly trend showing comparison of Casualties of CY and PY
+-Casualties by Road type for CY
+-Casualties by Area
+-Casualties by Location 
+-Casualties by Day/Night
+-Total Casualties and Total Road Accidents by Location.
+
+
+   
+
+
+
+
+
